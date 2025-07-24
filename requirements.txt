@@ -1,0 +1,16 @@
+streamlit>=1.32.0
+python-dotenv>=1.0.0
+
+# LangChain + OpenAI
+langchain>=0.1.16
+langchain-community>=0.0.34
+langchain-openai>=0.1.6
+
+# FAISS CPU
+faiss-cpu>=1.7.4
+
+# Support packages
+tqdm
+numpy
+openai>=1.16.0
+transformers>=4.21.0

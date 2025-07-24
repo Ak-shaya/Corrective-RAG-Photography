@@ -1,0 +1,10 @@
+# Ignore secrets and system files
+.env
+__pycache__/
+*.pyc
+
+# FAISS vector index
+faiss_index/
+
+# OS
+.DS_Store
